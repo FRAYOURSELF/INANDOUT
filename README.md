@@ -30,7 +30,31 @@ To get started with Wayfarer Connect, follow these steps:
 
 We welcome contributions from the open-source community! Feel free to open issues, submit pull requests, or suggest improvements. Let's make Wayfarer Connect even better together. 🙌
 
+## Support
 
+For support, email mailtosahil18@gmail.com.
+
+## I'm a student at Bits Pilani Goa Campus!!
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2023 Goals: Learn more about web3
+- ⚡ Fun fact: I like to draw and play guitar/drums
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)]()
+[![website](./img/globe-dark.svg)]()
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)]()
+[![website](./img/youtube-dark.svg)]()
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)]()
+[![website](./img/twitter-dark.svg)]()
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)]()
+[![website](./img/linkedin-dark.svg)]()
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)]()
+[![website](./img/instagram-dark.svg)]()
 ---
 
 Thank you for choosing Wayfarer Connect! We look forward to connecting communities and simplifying your shopping needs.
